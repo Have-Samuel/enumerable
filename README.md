@@ -1,7 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Enumerable
 
-A decoder which translates or changes Morse code into alphabets
+in this lesson we learned Ruby enumerables
 
 ## Built With
 
@@ -21,7 +22,7 @@ To get a local copy up and running follow these simple example st
 Run the following command in your terminal to clone this repo to your local machine
 
 ```bash
-> git clone git@github.com:sediqullahbadakhsh/morse-code-message.git
+> git clone git@github.com:Have-Samuel/morse-code-message.git
 ```
 
 Change directory into the newly created project
