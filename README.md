@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # Enumerable
 
 A decoder which translates or changes Morse code into alphabets
