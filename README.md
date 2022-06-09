@@ -1,56 +1,60 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Enumerable
 
-# Project Name
-
-> Description the project.
-
+A decoder which translates or changes Morse code into alphabets
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Major languages: Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example st
 
 ### Prerequisites
 
+- `ruby` : `^3.0.1` required for running the code.
+- `gem` : `^3.2.15` required for linters.
+
 ### Setup
 
-### Install
+Run the following command in your terminal to clone this repo to your local machine
+
+```bash
+> git clone git@github.com:sediqullahbadakhsh/morse-code-message.git
+```
+
+Change directory into the newly created project
+
+```bash
+> cd morse-code-message
+```
 
 ### Usage
 
-### Run tests
+In the project directory you can run the following command to execute the code:
 
-### Deployment
+```bash
+> ruby decode.rb
+```
 
+or alternatively you can copy and paste the commands in
 
+```bash
+> irb
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Sediqullah Badakhsh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@sediqullahbadakhsh](https://github.com/sediqullahbadakhsh)
+- LinkedIn: [sediqullahBadakhsh](https://www.linkedin.com/in/sediqullah/)
 
-👤 **Author2**
+👤 **Have Samuel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Have-Samuel](https://github.com/Have-Samuel)
+- Twitter: [@samhave1](https://twitter.com/@samhave1)
+- LinkedIn: [Have Samuel Kabreebe](https://linkedin.com/in/Have-Samuel-Kabreebe)
 
 ## 🤝 Contributing
 
@@ -67,7 +71,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
