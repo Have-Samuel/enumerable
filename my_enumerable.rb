@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# My Enumerable methods
 module MyEnumerable
   def all?
     check_arr = true

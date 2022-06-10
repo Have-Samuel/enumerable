@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
 require_relative './my_enumerable'
 
+# My list with instance of @list
 class MyList
   def initialize(*list)
     @list = list
