@@ -1,7 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Enumerable
 
-A decoder which translates or changes Morse code into alphabets
+In this project we learned how to use a module inside our class. For this we created a class `my_list` and a module `my_enumerable` that implements a subset of the functionality of Enumerable.
+
 
 ## Built With
 
@@ -21,7 +23,7 @@ To get a local copy up and running follow these simple example st
 Run the following command in your terminal to clone this repo to your local machine
 
 ```bash
-> git clone git@github.com:sediqullahbadakhsh/morse-code-message.git
+> git clone git@github.com:Have-Samuel/morse-code-message.git
 ```
 
 Change directory into the newly created project
@@ -46,6 +48,7 @@ or alternatively you can copy and paste the commands in
 
 ## Authors
 
+
 👤 **Sediqullah Badakhsh**
 
 - GitHub: [@sediqullahbadakhsh](https://github.com/sediqullahbadakhsh)
@@ -56,6 +59,7 @@ or alternatively you can copy and paste the commands in
 - GitHub: [Have-Samuel](https://github.com/Have-Samuel)
 - Twitter: [@samhave1](https://twitter.com/@samhave1)
 - LinkedIn: [Have Samuel Kabreebe](https://linkedin.com/in/Have-Samuel-Kabreebe)
+
 
 ## 🤝 Contributing
 
