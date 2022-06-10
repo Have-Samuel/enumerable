@@ -2,7 +2,7 @@
 
 # Enumerable
 
-in this lesson we learned Ruby enumerables
+In this project we learned how to use a module inside our class. For this we created a class `my_list` and a module `my_enumerable` that implements a subset of the functionality of Enumerable.
 
 ## Built With
 
