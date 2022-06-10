@@ -35,7 +35,7 @@ p mylist.enumerable?
 
 [:foo, :bar].filter { |x| x == :foo }   #=> [:foo]
 
-module myEnumerable
+module MyEnumerable
 def all?
   each do |element|
     return false unless yield(element)
