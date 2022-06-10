@@ -9,6 +9,7 @@ class MyList
   def each
     i = 0
     while i < @list.length
+      puts "success"
       yield @list[i]
       i += 1
     end
@@ -25,4 +26,4 @@ puts(list.any? { |e| e == 2 })
 
 puts(list.any? { |e| e == 5 })
 
-p list.filter { |e| e.even? }
+p(list.filter { |e| e.even? })
