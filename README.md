@@ -1,6 +1,9 @@
-# Morse Code Message
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-In this Lesson we learn Ruby Enumerables
+# Enumerable
+
+In this project we learned how to use a module inside our class. For this we created a class `my_list` and a module `my_enumerable` that implements a subset of the functionality of Enumerable.
+
 
 ## Built With
 
@@ -45,15 +48,18 @@ or alternatively you can copy and paste the commands in
 
 ## Authors
 
-👤 **Have Samuel**
-
-- GitHub: [@HaveSamuel](https://github.com/have-samuel)
-- LinkedIn: [HaveSamuel](https://www.linkedin.com/in/havesamuel/)
 
 👤 **Sediqullah Badakhsh**
 
 - GitHub: [@sediqullahbadakhsh](https://github.com/sediqullahbadakhsh)
 - LinkedIn: [sediqullahBadakhsh](https://www.linkedin.com/in/sediqullah/)
+
+👤 **Have Samuel**
+
+- GitHub: [Have-Samuel](https://github.com/Have-Samuel)
+- Twitter: [@samhave1](https://twitter.com/@samhave1)
+- LinkedIn: [Have Samuel Kabreebe](https://linkedin.com/in/Have-Samuel-Kabreebe)
+
 
 ## 🤝 Contributing
 
